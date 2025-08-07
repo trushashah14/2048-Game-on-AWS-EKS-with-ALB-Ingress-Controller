@@ -1,6 +1,6 @@
-# Deploying 2048 Game on AWS EKS with ALB Ingress Controller
+# 2048 Game: Serverless K8s on AWS EKS
 
-This project demonstrates how to deploy the classic 2048 game on AWS Elastic Kubernetes Service (EKS) using Fargate and expose it via an Application Load Balancer (ALB) Ingress Controller.
+A production-ready deployment of the 2048 game using AWS EKS Fargate and ALB Ingress, demonstrating modern cloud-native architecture.
 
 ## 🏗️ Architecture & Traffic Flow
 ```
